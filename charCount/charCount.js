@@ -9,5 +9,6 @@ function countLetters (string){
       sorted[character] = 1;
     }
   return sorted;
+  }
 }
 console.log(countLetters("Take regular breaks if you love your brain"));
