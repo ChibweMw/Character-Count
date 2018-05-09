@@ -8,7 +8,7 @@ function countLetters (string){
     } else {
       sorted[character] = 1;
     }
-  return sorted;
   }
+  return sorted;
 }
-console.log(countLetters("Take regular breaks if you love your brain"));
+console.log(countLetters("lighthouse in the house"));
